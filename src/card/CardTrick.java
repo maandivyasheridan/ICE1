@@ -36,7 +36,7 @@ public class CardTrick {
         }
         Card luckyCard = new Card();
         luckyCard.setValue(7);  // Set the lucky card number
-        luckyCard.setSuit("hearts");  // Set the lucky card suit
+        luckyCard.setSuit("diamond");  // Set the lucky card suit
         
         Scanner scanner = new Scanner(System.in);
         System.out.print("Pick a card: ");
